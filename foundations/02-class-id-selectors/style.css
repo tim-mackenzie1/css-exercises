@@ -1,0 +1,19 @@
+p {
+    background-color: #ffc0cb;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ID1 {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#ID2 {
+    font-size: 24px;
+}
+
+#ID3 {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
